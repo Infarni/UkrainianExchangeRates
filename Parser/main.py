@@ -23,7 +23,7 @@ for item in items:
     
     exchanges.append(
         {
-            'name': name.replace('\n', ''),
+            'name': name.replace('\n', '').strip(),
             'purchase': purchase,
             'sale': sale,
             'time': time
