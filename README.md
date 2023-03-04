@@ -6,7 +6,7 @@ This is the backend for the REST API. API creation with django and django-rest-f
   <li>Install requirements
     <ul>
       <li>Create virtual env (<code>python -m venv .venv</code>)</li>
-      <li>Activate virtual env (On Linux/OSX: <code>source .venv/bin/activate</code, On Windows: <code>.venv/Scripts/Activate.bat</code>)</li>
+      <li>Activate virtual env (On Linux/OSX: <code>source .venv/bin/activate</code>, On Windows: <code>.venv/Scripts/Activate.bat</code>)</li>
       <li>Install requirements (<code>pip install -r requirements.txt</code>)</li>
     </ul>
   </li>
