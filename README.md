@@ -1,5 +1,5 @@
 <h1>About</h1>
-This is the backend for the REST API. API creation with django and django-rest-framework. Parser for Beautiful Soup 4.
+This is the backend for the REST API. API creation with django and django-rest-framework. Parser for Beautiful Soup 4. Now it is launched at https://archdrdr2.pythonanywhere.com
 <h2>Deploy</h2>
 <ol>
   <li>Clone this repo</li>
