@@ -10,7 +10,7 @@ This is the backend for the REST API. API creation with django and django-rest-f
       <li>Install requirements (<code>pip install -r requirements.txt</code>)</li>
     </ul>
   </li>
-  <li>Next, you need to configure the django server itself via wsgi or asgi. It is located in the "ExchangeRates" directory</li>
+  <li>Next, you need to configure the django server itself using wsgi or asgi and regularly run the <code>Parser/exchange_rates.py</code> file to update the data. It is located in the "ExchangeRates" directory</li>
 </ol>
 <h2>Docs</h2>
 <ul>
