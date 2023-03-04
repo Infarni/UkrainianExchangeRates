@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-response = requests.get('https://minfin.com.ua/currency/cards/')
+response = requests.get('https://minfin.com.ua/ua/currency/cards/')
 
 soup = BeautifulSoup(response.text, 'lxml')
 
